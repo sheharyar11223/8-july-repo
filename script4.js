@@ -12,4 +12,4 @@ for(let a=0;a<num.length;a++){
 
 
 
-console.log(` Divisible by Five are ${tens}`)
+console.log(` there  are ${tens}`)
